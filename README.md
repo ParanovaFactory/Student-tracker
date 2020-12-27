@@ -1,2 +1,2 @@
 # Öğrenci takip sistemi
-# Data base kulaanarak yaptığım öğrenci takip sistemi uygulamam
+# Data base ve dataset kulaanarak yaptığım öğrenci takip sistemi uygulamam
