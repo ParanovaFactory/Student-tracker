@@ -1,0 +1,16 @@
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\bin\Debug\ÖğrenciTakipSİS.exe.config
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\bin\Debug\ÖğrenciTakipSİS.exe
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\bin\Debug\ÖğrenciTakipSİS.pdb
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.csprojAssemblyReference.cache
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.Form1.resources
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.Properties.Resources.resources
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.exe
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.pdb
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.Frmogrnotlar.resources
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.FrmOgretmen.resources
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.FrmKulup.resources
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.FrmDersler.resources
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.FrmOgrenci.resources
+O:\Udemy\Udemy C# Projeleri\ÖğrenciTakipSİS\ÖğrenciTakipSİS\obj\Debug\ÖğrenciTakipSİS.FrmSınav.resources
